@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Smart Kitchen Devices as a Software Architect and Team Manager
 
 #### Most projects:
+- .NET
 - C#
 - Azure
 - ASP.NET
