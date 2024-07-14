@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on Smart Kitchen Devices as a Software Architect and Team Manager
 
 #### Most projects:
-- .NET
-- C#
-- Azure
+- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![Azure]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white])
 - ASP.NET
 - ![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)
 - ![Visual Studi](https://badges.aleen42.com/src/visual_studio.svg)
