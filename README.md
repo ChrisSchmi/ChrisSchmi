@@ -16,5 +16,5 @@
 - ![Vue](https://aleen42.github.io/badges/src/vue.svg)
 
 
-https://githubcard.com/ChrisSchmi.svg
+![GitHubCard](https://githubcard.com/ChrisSchmi.svg)
 
