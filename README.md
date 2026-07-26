@@ -16,4 +16,4 @@
 - ![Vue](https://aleen42.github.io/badges/src/vue.svg)
 
 
-[![Christians GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSchmi)](https://github-readme-stats.vercel.app/api?username=ChrisSchmi)
+[[![Christians GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSchmi)](https://github-readme-stats.vercel.app/api?username=ChrisSchmi)](https://githubcard.com/ChrisSchmi.svg?d=)
